@@ -9,6 +9,6 @@
        {"id":6, "name": "Horror"},
        {"id":7, "name": "Sci-fi"},
        {"id":8, "name": "Suspense"},
-       {"id":9, "name": "Thriller"},
+       {"id":9, "name": "Thriller"}
     ]
 }
