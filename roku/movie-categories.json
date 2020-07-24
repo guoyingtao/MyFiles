@@ -1,5 +1,5 @@
 {
-    "status": "success",
+    "success": "success",
     "categories": [
        {"id":1, "name":"Action"}, 
        {"id":2, "name":"Animation"}, 
